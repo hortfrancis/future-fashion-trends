@@ -1,9 +1,21 @@
 body {
     font-family: 'Josefin Sans', sans-serif;  
+
+    /* For sticky footer with Flexbox */ 
+    min-height: 100vh;
+
+
+    background-image: url("https://cdn.discordapp.com/attachments/1159550025400057866/1194318203845873785/hortfrancis_Texture_geometric_light_shapes_subtle_fashion_e5e97527-aac2-4fde-a32c-4fc9347b1596.png?ex=65afea81&is=659d7581&hm=5ccada454d8d692cdd5c910cd1dc574a8db25b50c1b61b626d818d429a3dd214&");
+    background-repeat: repeat;
+    background-size: 20rem 20rem;
+}
+
+main {
+    background-color: rgba(255, 255, 255, 0.75);
 }
 
 p {
-    font-size: 1rem;
+    font-size: 1.1rem;
     font-weight: 300;
 }
 
